@@ -18,14 +18,14 @@ Later, during the **CSS with SASS** course, a **reverse engineering** of the pro
 ---
 
 ## Demo
-You can access the project by clicking [here](https://)https://www.figma.com/proto/kAuBC2z5Ms1fWGkk2hNjlY/Bikcraft?node-id=3%3A72&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=3%3A72.
+You can access the project by clicking [here](https://www.figma.com/proto/kAuBC2z5Ms1fWGkk2hNjlY/Bikcraft?node-id=3%3A72&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=3%3A72).
 
 ---
 
 ## Layout
 Both **wireframe** and **design** of the **Bikcraft** project were developed in **Figma**, both **browsable** and which you can access on the links below:
-- **[Wireframe](https://www.figma.com/file/kAuBC2z5Ms1fWGkk2hNjlY/Bikcraft?type=design&node-id=3%3A72&mode=design&t=GEQlfA5RL7mGvcML-1)https://www.figma.com/file/kAuBC2z5Ms1fWGkk2hNjlY/Bikcraft?type=design&node-id=3%3A72&mode=design&t=GEQlfA5RL7mGvcML-1)**
-- **[Design](https://www.figma.com/file/kAuBC2z5Ms1fWGkk2hNjlY/Bikcraft?type=design&node-id=3%3A72&mode=design&t=GEQlfA5RL7mGvcML-1)https://www.figma.com/file/kAuBC2z5Ms1fWGkk2hNjlY/Bikcraft?type=design&node-id=3%3A72&mode=design&t=GEQlfA5RL7mGvcML-1)**
+- **[Wireframe](https://www.figma.com/file/kAuBC2z5Ms1fWGkk2hNjlY/Bikcraft?type=design&node-id=3%3A72&mode=design&t=GEQlfA5RL7mGvcML-1)**
+- **[Design](https://www.figma.com/file/kAuBC2z5Ms1fWGkk2hNjlY/Bikcraft?type=design&node-id=3%3A72&mode=design&t=GEQlfA5RL7mGvcML-1)**
 
 ---
 
